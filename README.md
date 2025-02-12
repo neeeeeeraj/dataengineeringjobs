@@ -6,3 +6,4 @@
 - [🤝 Companies hiring Data Engineers](https://dataengjobs.com/companies)
 - [📚 Learn Data Engineering Free](https://dataengineering.wiki/)
 - [💡 Data Engineering Resume & Interview tips](https://dataengjobs.com/blog)
+- [💼 Top Data Recruitment Agencies](https://www.datateams.ai/blog/data-recruitment-agencies-usa)
